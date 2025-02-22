@@ -1,2 +1,2 @@
 # To-Do-list
-A simple and interactive to-do list website built with HTML, CSS, and JavaScript. Users can add, complete, and delete tasks with a clean and responsive design.
+This project is a simple and interactive to-do list website built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as completed, and delete tasks with ease. The website features a clean and user-friendly interface and is designed to be fully responsive for seamless use across devices. This project demonstrates my foundational skills in frontend development and creating interactive web applications.
